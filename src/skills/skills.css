@@ -1,0 +1,30 @@
+.skills {
+    background-color: #3d3d3d;
+    margin-top: 100px;
+    height: 80vh;
+    color: white;
+}
+
+.progress {
+    height: 5vh;
+}
+
+.progress-bar {
+    background-color: #959188;
+}
+
+.text-skills {
+    color: white;
+    margin-top: 20px;
+}
+
+h4 {
+    text-decoration: solid underline white 4px;
+}
+
+.list-group-item {
+    color: white !important;
+    background-color: transparent !important;
+    border: none;
+    margin-bottom: 20px;
+}
