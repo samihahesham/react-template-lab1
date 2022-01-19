@@ -1,0 +1,21 @@
+.card {
+    height: 30vh;
+}
+
+.portfolio-cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-title {
+    align-items: center;
+    margin-top: 70px;
+    text-decoration: solid underline white 4px;
+}
+
+.text-portfolio {
+    color: #3d3d3d;
+}
