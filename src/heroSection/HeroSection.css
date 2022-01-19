@@ -1,0 +1,43 @@
+.card {
+    height: 80vh;
+}
+
+.card-img {
+    height: 80vh;
+    width: 100%;
+}
+
+.card-img-overlay {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-title {
+    margin-top: 500px;
+    color: white;
+    text-decoration: none;
+}
+
+.card-text {
+    color: white;
+}
+
+.hero-button {
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.hero-button:hover {
+    background: grey;
+}
+
+.btn {
+    margin-top: 150px;
+}
+
+p {
+    font-size: 20px;
+}
